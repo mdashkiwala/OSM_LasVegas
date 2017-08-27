@@ -5,3 +5,6 @@ The project contains an XML file containing OSM data for Las Vegas , Nevada. The
 The OSM XML Raw file was downloaded from:
 
 https://mapzen.com/data/metro-extracts/metro/las-vegas_nevada/
+
+
+Images for some reason are not rendered on github. Download and view the files.  
