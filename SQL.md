@@ -30,39 +30,46 @@ Directly copied csv data to sql tables.
 ### Tables
 The following shows the relations or sql tables formed: 
 
-<img src='images\tables.jpg' align='left'>
+![](images/tables.jpg?raw=true)
 
 ### Number of Nodes and Ways
 
-<img src='images\count.jpg' align='left'>
+
+![](images/count.jpg?raw=true)
 
 ### Users
 
 First we see the number of unique users:
 
-<img src='images\unique_users.jpg' align='left'>
+
+![](images/unique_users.jpg?raw=true)
 
 Next, we see which users contributed the most.
 
-<img src='images\max_users.jpg' align='left'>
+
+![](images/max_users.jpg?raw=true)
 
 ### Top 10 appearing amenities
 
-<img src='images\amenities.jpg' align='left'>
+
+![](images/amenities.jpg?raw=true)
 
 ### Top 10 appearing Postcodes
 
-<img src='images\postcodes.jpg' align='left'>
+
+![](images/postcodes.jpg?raw=true)
 
 ### Top 3 Religions
 
-<img src='images\religion.jpg' align='left'>
+
+![](images/religion.jpg?raw=true)
 
 <img src='images\restaurantss.jpg' align='left'>
 
 ### Top 5 popular cuisines
 
-<img src='images\restaurants.jpg' align='left'>
+
+![](images/restaurants.jpg?raw=true)
 
 ### Conclusion
 
