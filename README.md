@@ -7,3 +7,6 @@ Markdown file for Python code and SQL queries.
 Small sample of XML file. The complete raw XML file used in the project can be found on the link given below. 
 
 https://mapzen.com/data/metro-extracts/metro/las-vegas_nevada/
+
+
+Images for some reason are not rendered on github. Download and view the files.  
